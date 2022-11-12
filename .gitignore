@@ -30,3 +30,7 @@ __pycache__/
 
 # macOS dir files
 .DS_Store
+
+
+misp_dataset
+dev.md
