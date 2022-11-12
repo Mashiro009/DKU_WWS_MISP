@@ -1,3 +1,8 @@
+# encoding: utf-8
+"""
+@author: Haoxu, Ming Cheng
+"""
+
 
 import torch
 import torch.nn as nn

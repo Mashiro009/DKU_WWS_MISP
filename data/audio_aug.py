@@ -1,3 +1,7 @@
+# encoding: utf-8
+"""
+@author: Haoxu, Ming Cheng
+"""
 
 
 import os

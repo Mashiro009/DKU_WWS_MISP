@@ -1,8 +1,8 @@
 # encoding: utf-8
 """
-@author: Ming Cheng
-@contact: ming.cheng@dukekunshan.edu.cn
+@author: Haoxu, Ming Cheng
 """
+
 import os
 import cv2
 import numpy as np
