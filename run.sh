@@ -7,4 +7,4 @@ python decode.py \
   --decode_modal audiovideo \
   --checkpoint simam_hmafusion.pth \
   --test_audio_data misp_dataset/eval_far_v1 \
-  ----test_video_data misp_dataset/eval_lips_video_v1
+  --test_video_data misp_dataset/eval_lips_video_v1
